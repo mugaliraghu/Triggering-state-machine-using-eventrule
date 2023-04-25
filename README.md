@@ -19,6 +19,7 @@ check the cloudformation stack with the stack name that you given while deployin
 
 ## Validation steps
 The instance which is showing here in a stopped state.
+
 <img width="842" alt="instance_stopped state" src="https://user-images.githubusercontent.com/120295902/234184046-3fa98c3e-3336-4bf1-ab28-d1139b1ff95c.png">
 
 After starting instance go to state machine executions, check the status, it has to running status.
