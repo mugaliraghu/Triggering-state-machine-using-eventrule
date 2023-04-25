@@ -25,7 +25,7 @@ After starting instance go to state machine executions, check the status, it has
 ![Screenshot (48)](https://user-images.githubusercontent.com/120295902/234185255-eae6f782-1337-40ec-b881-424b8530e257.png)
 
 and again i stopped the instance, and the status is as shown in below image.
-![Screenshot (49)](https://user-images.githubusercontent.com/120295902/234186587-dc032e9c-b2a4-43d5-a376-a619054ea7de.png)
+![Screenshot (81)](https://user-images.githubusercontent.com/120295902/234187152-64da79a9-3f68-45c2-9d4a-6c1fcdfd03fe.png)
 
 
 
