@@ -28,5 +28,10 @@ and again i stopped the instance, and the status is as shown in below image.
 
 ![Screenshot (81)](https://user-images.githubusercontent.com/120295902/234187374-b88ddd5f-5702-45a2-b010-e79755ac7f91.png)
 
+To delete stack
+```t
+sam delete <name of the stack>
+```
+
 
 
