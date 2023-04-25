@@ -25,5 +25,6 @@ After starting instance go to state machine console logs, check the status, it h
 ![Screenshot (48)](https://user-images.githubusercontent.com/120295902/234185255-eae6f782-1337-40ec-b881-424b8530e257.png)
 
 and again i stopped the instance, and the status is as shown in below image.
-![Screenshot (50)](https://user-images.githubusercontent.com/120295902/234185644-b7d9a207-623c-4e3b-8eb3-07838bd24f62.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/120295902/234186180-3679580f-8d84-4482-8678-cc74a5fe9edd.png)
+
 
